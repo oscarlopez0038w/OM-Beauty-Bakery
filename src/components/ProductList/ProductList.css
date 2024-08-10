@@ -1,0 +1,5 @@
+.product-image {
+    width: 100%; /* Ajusta el ancho al 100% del contenedor */
+    height: 400px; /* Establece una altura fija */
+    object-fit: cover; /* Recorta la imagen para llenar el contenedor */
+  }

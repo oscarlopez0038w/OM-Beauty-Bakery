@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "name": "Camisón",
+    "description": "Camisón para dormir",
+    "price": "8",
+    "image": "/Productos/camison.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Conjunto Azul Lazo",
+    "description": "Descripción de la Ropa B",
+    "price": "12",
+    "image": "/Productos/imagen2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Juego de Colas",
+    "description": "Descripción de la Ropa B",
+    "price": "5",
+    "image": "/Productos/imagen3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "20",
+    "image": "/Productos/imagen4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "20",
+    "image": "/Productos/imagen5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Camisón",
+    "description": "Camisón para dormir",
+    "price": "10",
+    "image": "/Productos/imagen6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "20",
+    "image": "/Productos/imagen7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "20",
+    "image": "/Productos/imagen8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "20",
+    "image": "/Productos/imagen9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "20",
+    "image": "/Productos/imagen10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Camisón",
+    "description": "Camisón para dormir",
+    "price": "10",
+    "image": "/Productos/imagen11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "20",
+    "image": "/Productos/imagen12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "20",
+    "image": "/Productos/imagen13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "20",
+    "image": "/Productos/imagen14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "20",
+    "image": "/Productos/imagen15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "20",
+    "image": "/Productos/imagen16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "20",
+    "image": "/Productos/imagen17.jpg"
+  }
+]
