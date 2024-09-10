@@ -1,121 +1,370 @@
 [
   {
     "id": 1,
-    "name": "Camisón",
+    "name": "Camison",
     "description": "Camisón para dormir",
-    "price": "8",
+    "price": "$$$",
     "image": "/Productos/camison.jpg"
   },
   {
     "id": 2,
     "name": "Conjunto Azul Lazo",
     "description": "Descripción de la Ropa B",
-    "price": "12",
+    "price": "$$$",
     "image": "/Productos/imagen2.jpg"
   },
   {
     "id": 3,
     "name": "Juego de Colas",
     "description": "Descripción de la Ropa B",
-    "price": "5",
+    "price": "$$$",
     "image": "/Productos/imagen3.jpg"
   },
   {
     "id": 4,
     "name": "Ropa B",
     "description": "Descripción de la Ropa B",
-    "price": "20",
+    "price": "$$$",
     "image": "/Productos/imagen4.jpg"
   },
   {
     "id": 5,
     "name": "Ropa B",
     "description": "Descripción de la Ropa B",
-    "price": "20",
+    "price": "$$$",
     "image": "/Productos/imagen5.jpg"
   },
   {
     "id": 6,
     "name": "Camisón",
     "description": "Camisón para dormir",
-    "price": "10",
+    "price": "$$$",
     "image": "/Productos/imagen6.jpg"
   },
   {
     "id": 7,
     "name": "Ropa B",
     "description": "Descripción de la Ropa B",
-    "price": "20",
+    "price": "$$$",
     "image": "/Productos/imagen7.jpg"
   },
   {
     "id": 8,
     "name": "Ropa B",
     "description": "Descripción de la Ropa B",
-    "price": "20",
+    "price": "$$$",
     "image": "/Productos/imagen8.jpg"
   },
   {
     "id": 9,
     "name": "Ropa B",
     "description": "Descripción de la Ropa B",
-    "price": "20",
+    "price": "$$$",
     "image": "/Productos/imagen9.jpg"
   },
   {
     "id": 10,
     "name": "Ropa B",
     "description": "Descripción de la Ropa B",
-    "price": "20",
+    "price": "$$$",
     "image": "/Productos/imagen10.jpg"
   },
   {
     "id": 11,
     "name": "Camisón",
     "description": "Camisón para dormir",
-    "price": "10",
+    "price": "$$$",
     "image": "/Productos/imagen11.jpg"
   },
   {
     "id": 12,
     "name": "Ropa B",
     "description": "Descripción de la Ropa B",
-    "price": "20",
+    "price": "$$$",
     "image": "/Productos/imagen12.jpg"
   },
   {
     "id": 13,
     "name": "Ropa B",
     "description": "Descripción de la Ropa B",
-    "price": "20",
+    "price": "$$$",
     "image": "/Productos/imagen13.jpg"
   },
   {
     "id": 14,
     "name": "Ropa B",
     "description": "Descripción de la Ropa B",
-    "price": "20",
+    "price": "$$$",
     "image": "/Productos/imagen14.jpg"
   },
   {
     "id": 15,
     "name": "Ropa B",
     "description": "Descripción de la Ropa B",
-    "price": "20",
+    "price": "$$$",
     "image": "/Productos/imagen15.jpg"
   },
   {
     "id": 16,
     "name": "Ropa B",
     "description": "Descripción de la Ropa B",
-    "price": "20",
+    "price": "$$$",
     "image": "/Productos/imagen16.jpg"
   },
   {
     "id": 17,
     "name": "Ropa B",
     "description": "Descripción de la Ropa B",
-    "price": "20",
+    "price": "$$$",
     "image": "/Productos/imagen17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen18.jpeg"
+  },
+  {
+    "id": 19,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen19.jpeg"
+  },
+  {
+    "id": 20,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen20.jpeg"
+  },
+  {
+    "id": 21,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen21.jpeg"
+  },
+  {
+    "id": 22,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen22.jpeg"
+  },
+  {
+    "id": 23,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen23.jpeg"
+  },
+  {
+    "id": 24,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen24.jpeg"
+  }
+  ,
+  {
+    "id": 25,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen25.jpeg"
+  },
+  {
+    "id": 26,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen26.jpeg"
+  },
+  {
+    "id": 27,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen27.jpeg"
+  },
+  {
+    "id": 28,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen28.jpeg"
+  },
+  {
+    "id": 29,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen29.jpeg"
+  },
+  {
+    "id": 30,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen30.jpeg"
+  }
+  ,
+  {
+    "id": 31,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen31.jpeg"
+  },
+  {
+    "id": 32,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen32.jpeg"
+  },
+  {
+    "id": 33,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen33-1.jpeg"
+  },
+  {
+    "id": 34,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen34-1.jpeg"
+  },
+  {
+    "id": 35,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen35.jpeg"
+  },
+  {
+    "id": 36,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen36.jpeg"
+  }
+  ,
+  {
+    "id": 37,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen37.jpeg"
+  },
+  {
+    "id": 38,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen38.jpeg"
+  },
+  {
+    "id": 39,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen39.jpeg"
+  },
+  {
+    "id": 40,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen40.jpeg"
+  },
+  {
+    "id": 41,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen41.jpeg"
+  },
+  {
+    "id": 42,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen42.jpeg"
+  }
+  ,
+  {
+    "id": 43,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen43.jpeg"
+  },
+  {
+    "id": 44,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen44.jpeg"
+  },
+  {
+    "id": 45,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen45.jpeg"
+  },
+  {
+    "id": 46,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen46.jpeg"
+  },
+  {
+    "id": 47,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen47.jpeg"
+  },
+  {
+    "id": 48,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen48.jpeg"
+  },
+  {
+    "id": 49,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen49.jpeg"
+  },
+  {
+    "id": 50,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen50.jpeg"
+  },
+  {
+    "id": 51,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen51.jpeg"
+  },
+  {
+    "id": 52,
+    "name": "Ropa B",
+    "description": "Descripción de la Ropa B",
+    "price": "$$$",
+    "image": "/Productos/imagen52.jpeg"
   }
 ]
